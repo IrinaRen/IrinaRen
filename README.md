@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Irina Zhabrova
-### I am QA Engineer
-### My CV
+## I am QA Engineer
+## My CV
 <a href="https://drive.google.com/file/d/1gcnI1bje_46ktOU21GHnLCrTQgbqiRcA/view?usp=drive_link" rel="nofollow"> Link CV ENG </a>
 ### My Certificates
 <ul dir="auto">
