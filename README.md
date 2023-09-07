@@ -1,5 +1,4 @@
-### <div align="center">Hi there👋😺, my name is Irina Zhabrova</div> 
-## I'm QA Engineer
+## <div align="center">Hi there👋😺, my name is Irina Zhabrova and I'm QA Engineer</div> 
 ## My CV
 <a href="https://drive.google.com/file/d/1gcnI1bje_46ktOU21GHnLCrTQgbqiRcA/view?usp=drive_link" rel="nofollow"> Link CV ENG </a>
 ### My Certificates
