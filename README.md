@@ -3,7 +3,7 @@
 <div align="center"><a href="https://drive.google.com/file/d/1gcnI1bje_46ktOU21GHnLCrTQgbqiRcA/view?usp=drive_link" rel="nofollow"> Link CV ENG </a></div> 
 ### My Certificates
 
-<ul dir="auto">
+### <ul dir="auto">
 <li>[ Terminal Linux ] (<a href="https://drive.google.com/file/d/1I0k4byGpxukOxC6ldiWnkdYozmqxMzMM/view?usp=sharing" rel="nofollow">https://drive.google.com/file/d/1aYVxcMNSveW31Q7ANZm4WqBSkbYVAA1v/view?usp=sharing</a>)</li>
 </ul>
 
@@ -138,7 +138,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
-
+<!--
 <br/>  
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
