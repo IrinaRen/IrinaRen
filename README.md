@@ -9,6 +9,8 @@
 </ul> 
 
 
+
+
 <!--
 
 Here are some ideas to get you started:
@@ -21,8 +23,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<!--
+
+
+
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -44,8 +48,10 @@ Here are some ideas to get you started:
   
 
 <br/>  
--->
-<!--
+
+
+
+
 ## My Skill Set  
 
 <table><tr><td valign="top" width="33%">
@@ -93,7 +99,7 @@ Here are some ideas to get you started:
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:START 
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 <!--
@@ -121,3 +127,4 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+-->  
