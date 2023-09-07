@@ -5,8 +5,9 @@
 ### My Certificates
 
 ### <ul dir="auto">
-<li>[ Terminal Linux ] (<a href="https://drive.google.com/file/d/1I0k4byGpxukOxC6ldiWnkdYozmqxMzMM/view?usp=sharing" rel="nofollow">https://drive.google.com/file/d/1aYVxcMNSveW31Q7ANZm4WqBSkbYVAA1v/view?usp=sharing</a>)</li>
-</ul>
+<li>[ Terminal Linux ] ( <a href="https://drive.google.com/file/d/1I0k4byGpxukOxC6ldiWnkdYozmqxMzMM/view?usp=sharing" rel="nofollow">https://drive.google.com/file/d/1aYVxcMNSveW31Q7ANZm4WqBSkbYVAA1v/view?usp=sharing</a> )</li>
+</ul> 
+
 
 <!--
 
