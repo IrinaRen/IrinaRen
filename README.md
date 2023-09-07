@@ -1,7 +1,8 @@
 ## <div align="center">Hi there👋😺, my name is Irina Zhabrova and I'm QA Engineer</div> 
-## My CV
-<a href="https://drive.google.com/file/d/1gcnI1bje_46ktOU21GHnLCrTQgbqiRcA/view?usp=drive_link" rel="nofollow"> Link CV ENG </a>
+## <div align="center">My CV</div> 
+<div align="center"><a href="https://drive.google.com/file/d/1gcnI1bje_46ktOU21GHnLCrTQgbqiRcA/view?usp=drive_link" rel="nofollow"> Link CV ENG </a></div> 
 ### My Certificates
+
 <ul dir="auto">
 <li>[ Terminal Linux ] (<a href="https://drive.google.com/file/d/1I0k4byGpxukOxC6ldiWnkdYozmqxMzMM/view?usp=sharing" rel="nofollow">https://drive.google.com/file/d/1aYVxcMNSveW31Q7ANZm4WqBSkbYVAA1v/view?usp=sharing</a>)</li>
 </ul>
@@ -19,6 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
