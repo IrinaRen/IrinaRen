@@ -6,6 +6,9 @@
 
 ### <ul dir="auto">
 <li>[ Terminal Linux ] ( <a href="https://drive.google.com/file/d/1I0k4byGpxukOxC6ldiWnkdYozmqxMzMM/view?usp=sharing" rel="nofollow">https://drive.google.com/file/d/1aYVxcMNSveW31Q7ANZm4WqBSkbYVAA1v/view?usp=sharing</a> )</li>
+<li>[ Git ] ( <a href="https://drive.google.com/file/d/1A6_dk6TcVEswwydol-uHyoIWufjUZp6M/view?usp=drive_link"
+rel="nofollow">https://drive.google.com/file/d/1A6_dk6TcVEswwydol-uHyoIWufjUZp6M/view?usp=drive_link</a> )</li>
+
 </ul> 
 
 <br/>  
