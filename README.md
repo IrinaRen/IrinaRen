@@ -5,13 +5,13 @@
 
 ## <div align="center"> My Certificates: </div> 
 <div align="center">
-<a href="https://github.com/IrinaRen" target="_blank">
+<a href="https://github.com/IrinaRen/img/blob/main/Zhabrova%20Irina_Terminal.png?">
     <img src=https://github.com/IrinaRen/img/blob/main/Zhabrova%20Irina_Terminal.png?" title="Terminal" alt="Terminal" width="400"/>
 </a>
-    <a href="https://github.com/IrinaRen" target="_blank">
+    <a href="https://github.com/IrinaRen/img/blob/main/Zhabrova%20Irina_Git.png?" target="_blank">
         <img src=https://github.com/IrinaRen/img/blob/main/Zhabrova%20Irina_Git.png?" title="Git" alt="Git" width="400"/>
     </a>
-    <a href="https://github.com/IrinaRen" target="_blank">
+    <a href="https://github.com/IrinaRen/img/blob/main/Zhabrova%20Irina_CLS.png?" target="_blank">
         <img src=https://github.com/IrinaRen/img/blob/main/Zhabrova%20Irina_CLS.png?" title="CLS" alt="CLS" width="400"/>
     </a>
 </div>  
