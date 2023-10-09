@@ -4,21 +4,19 @@
 <br/>  
 
 ## <div align="center"> My Certificates: </div> 
-### <ul dir="auto">
 <div align="center">
-<figure>
-    <p><img src="https://github.com/IrinaRen/img/blob/main/Zhabrova%20Irina_Terminal.png?" title="Terminal" alt="Terminal" width="500">
-    <figcaption> Terminal </figcaption>
-    </figure>
-<figure>
-    <p><img src="https://github.com/IrinaRen/img/blob/main/Zhabrova%20Irina_Git.png?" title="Git" alt="Git" width="500">
-    <figcaption> Git </figcaption>
-    </figure>
-<figure>
-    <p><img src="https://github.com/IrinaRen/img/blob/main/Zhabrova%20Irina_CLS.png?" title="CLS" alt="CLS" width="500">
-    <figcaption> CLS </figcaption>
-    </figure> 
-</ul>
+<a href="https://github.com/IrinaRen" target="_blank">
+    <img src=https://github.com/IrinaRen/img/blob/main/Zhabrova%20Irina_Terminal.png?" title="Terminal" alt="Terminal" width="500"/>
+</a>
+    <a href="https://github.com/IrinaRen" target="_blank">
+        <img src=https://github.com/IrinaRen/img/blob/main/Zhabrova%20Irina_Git.png?" title="Git" alt="Git" width="500"/>
+    </a>
+    <a href="https://github.com/IrinaRen" target="_blank">
+        <img src=https://github.com/IrinaRen/img/blob/main/Zhabrova%20Irina_CLS.png?" title="CLS" alt="CLS" width="500"/>
+    </a>
+</div>  
+
+
 
 <br/>  
 <br/>  
