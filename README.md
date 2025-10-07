@@ -1,5 +1,5 @@
 ## <div align="center">Hi there👋😺, my name is Irina Zhabrova and I'm QA Engineer</div> 
-## <div align="center"> My CV: <a href="https://drive.google.com/file/d/1gcnI1bje_46ktOU21GHnLCrTQgbqiRcA/view?usp=sharing" rel="nofollow"> Link </a>
+## <div align="center"> My CV : <a href="https://drive.google.com/file/d/1gcnI1bje_46ktOU21GHnLCrTQgbqiRcA/view?usp=drive_link" rel="nofollow"> Link (EN) </a>, <a href="https://drive.google.com/file/d/1oMUujb7hJg59eAdlOVFL5-TOCP5XfWC8/view?usp=drive_link" rel="nofollow"> Link (RU) </a>
 
 <br/>  
 
